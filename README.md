@@ -13,16 +13,16 @@ Assuming "testFolder/gifs/" points to a folder of images - will automatically or
     #------------------------MAIN GIF SETTINGS-----------------------------------
     types = ('*.jpg', '*.png','*eps') // add any other strange image files you may have
 
-    gifName="generatedGif" //name of gif
+    gifName="generatedGif"            //name of gif
 
-    grabEveryNFile=1       //used to skip n files i.e. 4 would grab every 4 images
-    reversableGif=False    //will reverse the gif once completed - doubles size of gif
+    grabEveryNFile=1                  //used to skip n files i.e. 4 would grab every 4 images
+    reversableGif=False               //will reverse the gif once completed - doubles size of gif
 
-    drawCounter=False      //will draw a counter in red for the number of gifs
-    fontSize =15           //font size of counter text
+    drawCounter=False                 //will draw a counter in red for the number of gifs
+    fontSize =15                      //font size of counter text
 
-    resize= 1              //multiplier for image size
-    grayScale = False      //converts everything to gray scale
-    blur = 0               //applies a gaussian blur of kernal size n
+    resize= 1                         //multiplier for image size
+    grayScale = False                 //converts everything to gray scale
+    blur = 0                          //applies a gaussian blur of kernal size n
     #-----------------------------------------------------------------------------
  
