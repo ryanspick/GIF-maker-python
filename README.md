@@ -7,8 +7,9 @@ Assuming "testFolder/gifs/" points to a folder of images - will automatically or
   
   
   
-  Inside gif.py in MAIN find the optional paramaters 
-   #------------------------MAIN GIF SETTINGS-----------------------------------
+    Inside gif.py in MAIN find the optional paramaters
+  
+    #------------------------MAIN GIF SETTINGS-----------------------------------
     types = ('*.jpg', '*.png','*eps') // add any other strange image files you may have
 
     gifName="generatedGif" //name of gif
