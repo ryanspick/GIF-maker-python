@@ -15,7 +15,7 @@ Assuming "testFolder/gifs/" points to a folder of images - will automatically or
 
     gifName="generatedGif"            //name of gif
 
-    grabEveryNFile=1                  //used to skip n files i.e. 4 would grab every 4 images
+    grabEveryNFile=1                  //used to skip n files i.e. 4 would grab every 4th image
     reversableGif=False               //will reverse the gif once completed - doubles size of gif
 
     drawCounter=False                 //will draw a counter in red for the number of gifs
