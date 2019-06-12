@@ -1,9 +1,10 @@
 # GIF-maker-python
 
 
-Usage: python gif.py <fps> <path to images separated by space>
-Example: python gif.py 60 testFolder/gifs/
-Assuming "testFolder/gifs/" points to a folder of images - will automatically order by creation date
+Usage: python gif.py <fps> <path to images separated by space> <br/>
+Example: python gif.py 60 testFolder/gifs/ <br/>
+  
+Assuming "testFolder/gifs/" points to a folder of images - will automatically order by creation date <br/>
   
   
   
